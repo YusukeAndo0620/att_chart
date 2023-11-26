@@ -1,0 +1,124 @@
+{
+  "brandList": [
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "1",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20
+    },
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "1",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20
+    },
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "1",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20
+    },
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "1",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20
+    },
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "1",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20
+    }
+  ]
+}

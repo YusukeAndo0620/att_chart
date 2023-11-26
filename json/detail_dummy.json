@@ -1,0 +1,178 @@
+{
+  "brandList": [
+    {
+      "companyId": "1",
+      "companyName": "株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス株式会社フォーエス",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 4300,
+      "differenceValue": 5,
+      "closingPrice": 1678,
+      "startingPrice": 1690,
+      "highPrice": 1712,
+      "lowPrice": 1684,
+      "volume": 13300,
+      "purchasePrice": 22539,
+      "marketPrice": 11711000000,
+      "basUnit": 100,
+      "chartInfo": [
+        {
+          "time": 5,
+          "open": 1347,
+          "low": 1567,
+          "high": 1682,
+          "close": 1685,
+          "vol": 13300
+        },
+        {
+          "time": 10,
+          "open": 1347,
+          "low": 1343,
+          "high": 1712,
+          "close": 1789,
+          "vol": 13300
+        },
+        {
+          "time": 15,
+          "open": 1376,
+          "low": 2344,
+          "high": 5353,
+          "close": 6000,
+          "vol": 13300
+        },
+        {
+          "time": 20,
+          "open": 1565,
+          "low": 1865,
+          "high": 2056,
+          "close": 34544,
+          "vol": 13300
+        },
+        {
+          "time": 25,
+          "open": 1347,
+          "low": 1684,
+          "high": 1712,
+          "close": 4353,
+          "vol": 13300
+        }
+      ]
+    },
+    {
+      "companyId": "2",
+      "companyName": "test2",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 2300,
+      "differenceValue": -4,
+      "closingPrice": 1678,
+      "startingPrice": 1690,
+      "highPrice": 43423,
+      "lowPrice": 2323,
+      "volume": 24324,
+      "purchasePrice": 22539,
+      "marketPrice": 21711000000,
+      "basUnit": 100,
+      "chartInfo": [
+        {
+          "time": 5,
+          "open": 1347,
+          "low": 1567,
+          "high": 1682,
+          "close": 1685,
+          "vol": 13300
+        },
+        {
+          "time": 10,
+          "open": 1347,
+          "low": 1343,
+          "high": 1712,
+          "close": 1789,
+          "vol": 13300
+        },
+        {
+          "time": 15,
+          "open": 1376,
+          "low": 2344,
+          "high": 5353,
+          "close": 6000,
+          "vol": 13300
+        },
+        {
+          "time": 20,
+          "open": 1565,
+          "low": 1865,
+          "high": 2056,
+          "close": 34544,
+          "vol": 13300
+        },
+        {
+          "time": 25,
+          "open": 1347,
+          "low": 1684,
+          "high": 1712,
+          "close": 4353,
+          "vol": 13300
+        }
+      ]
+    },
+    {
+      "companyId": "3",
+      "companyName": "test3",
+      "markType": "0",
+      "time": "2022-12-23 12:23:23",
+      "price": 6500,
+      "differenceValue": 20,
+      "closingPrice": 1678,
+      "startingPrice": 1690,
+      "highPrice": 545,
+      "lowPrice": 434,
+      "volume": 13300,
+      "purchasePrice": 22539,
+      "marketPrice": 11711000000,
+      "basUnit": 100,
+      "chartInfo": [
+        {
+          "time": 5,
+          "open": 1347,
+          "low": 1567,
+          "high": 1682,
+          "close": 1685,
+          "vol": 13300
+        },
+        {
+          "time": 10,
+          "open": 1347,
+          "low": 1343,
+          "high": 1712,
+          "close": 1789,
+          "vol": 13300
+        },
+        {
+          "time": 15,
+          "open": 1376,
+          "low": 2344,
+          "high": 5353,
+          "close": 6000,
+          "vol": 13300
+        },
+        {
+          "time": 20,
+          "open": 1565,
+          "low": 1865,
+          "high": 2056,
+          "close": 34544,
+          "vol": 13300
+        },
+        {
+          "time": 25,
+          "open": 1347,
+          "low": 1684,
+          "high": 1712,
+          "close": 4353,
+          "vol": 13300
+        }
+      ]
+    }
+  ]
+}
